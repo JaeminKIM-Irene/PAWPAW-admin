@@ -1,0 +1,62 @@
+.headerC {
+    height: 6.15vw;
+    border-bottom: 3px solid black;
+    font-size: 1vw;
+    background-color: white;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+}
+
+.logoS {
+    width: 6.3%;
+    margin-left: 6vw;
+    margin-top: 0.6vw;
+    float: left;
+    cursor: pointer;
+}
+
+.headerC2 {
+    height: 100%;
+}
+
+.navlinks {
+    width: 25%;
+    height: 100%;
+    margin-left: 25vw;
+    float: left;
+    text-align: center;
+}
+
+.link {
+    width: 33.3333333%;
+    float: left;
+    position: relative;
+    top: 50%;
+    transform: translate(-2%,-50%);
+    cursor: pointer;
+    color: black;
+}
+
+.navlinks .active .link {
+    text-decoration: underline;
+    text-underline-position: under;
+    text-decoration-thickness: 2px;
+}
+
+.link:hover {
+    text-decoration: underline;
+    text-underline-position: under;
+    text-decoration-thickness: 2px;
+    font-weight: bold;
+}
+
+.logout {
+    float: right;
+    position: relative;
+    top: 50%;
+    transform: translate(-2%,-50%);
+    margin-right: 7vw;
+    cursor: pointer;
+    color: black;
+}

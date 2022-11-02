@@ -1,0 +1,13 @@
+.footerC {
+    bottom: 0px;
+    border-top: 3px solid black;
+    height: 3vw;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    padding-top: 1.8vw;
+    font-size: 1vw;
+    background-color: white;
+    z-index: 10;
+    margin-top: 6vw;
+}

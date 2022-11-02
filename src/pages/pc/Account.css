@@ -1,0 +1,109 @@
+.accountContent {
+    font-family: 'gmarketSans';
+    padding-left: 6vw;
+    padding-top: 4.4vw;
+    width: 36.4%;
+    margin-top: 6.15vw;
+}
+
+.accountContent2 {
+    font-family: 'gmarketSans';
+    padding-top: 4.4vw;
+    margin-left: 1vw;
+    width: 52%;
+    margin-top: 6.15vw;
+}
+
+.accountList {
+    border: 3px solid black;
+    height: 5.1vw;
+    width: 90.5%;
+    margin-top: 0.5vw;
+    margin-bottom: 2vw;
+    border-radius: 10px;
+    padding-left: 2.6vw;
+    padding-top: 1.8vw;
+}
+
+.accountD{
+    float: left;
+}
+
+.accountDT {
+    font-size: 0.7vw;
+    margin-right: 0.9vw;
+    margin-top: 0.3vw;
+
+}
+
+.accountDC {
+    font-size: 1.1vw;
+}
+
+.accountTrash {
+    float: right;
+    width: 2.2vw;
+    margin-right: 2vw;
+    margin-top: 0.5vw;
+    cursor: pointer;
+}
+
+.accountSet {
+    float: right;
+    width: 2.2vw;
+    margin-right: 1.4vw;
+    margin-top: 0.5vw;
+    cursor: pointer;
+}
+
+.accountLine {
+    width: 97%;
+}
+
+.accountEditB {
+    margin-top: 2vw;
+    margin-bottom: 1.9vw;
+}
+.accountCheck {
+    transform:scale(1.8);
+    cursor: pointer;
+}
+
+.accountCheckLab{
+    cursor: pointer;
+    position: relative;
+    top: -0.2vw;
+    font-size: 0.8vw;
+    margin-left: 1.3vw;
+}
+
+.accountCancel {
+    float: right;
+    margin-right: 1.3vw;
+    margin-top: -0.5vw;
+    width: 6.8vw;
+    cursor: pointer;
+}
+
+.accountUpload {
+    float: right;
+    margin-right: 1.5vw;
+    margin-top: -0.5vw;
+    width: 6.8vw;
+    cursor: pointer;
+}
+
+.accountInput{
+    height: 2.4vw;
+    width: 94.5%;
+    border: 3px solid black;
+    font-family: 'gmarketSansL';
+    padding-left: 1vw;
+    margin-bottom: 1.4vw;
+    font-size: 0.7vw;
+}
+
+.accountInput::placeholder {
+    color: #C4C4C4;
+    font-size: 0.7vw;
+}

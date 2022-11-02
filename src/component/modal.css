@@ -1,0 +1,71 @@
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 99;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  .modal button {
+    outline: none;
+    cursor: pointer;
+    border: 0;
+  }
+  .modal > section {
+    width: 90%;
+    height: 8vw;
+    max-width: 20vw;
+    margin: 0 auto;
+    background-color: #fff;
+    /* 팝업이 열릴때 스르륵 열리는 효과 */
+    animation: modal-show 0.3s;
+    overflow: hidden;
+    border: 3px solid black;
+    font-family: 'gmarketSans';
+    text-align: center;
+  }
+
+  .modal > section > main {
+    margin-top: 2.2vw;
+  }
+  .modal > section > footer {
+    margin-top: 1vw;
+    display: flex;
+    justify-content: center;
+  }
+  .modalCancel {
+      width: 5vw;
+      margin-right: 1vw;
+      cursor: pointer;
+  }
+.modalDelete {
+    width: 5vw;
+    cursor: pointer;
+}
+
+  .modal.openModal {
+    display: flex;
+    align-items: center;
+    /* 팝업이 열릴때 스르륵 열리는 효과 */
+    animation: modal-bg-show 0.3s;
+  }
+  @keyframes modal-show {
+    from {
+      opacity: 0;
+      margin-top: -50px;
+    }
+    to {
+      opacity: 1;
+      margin-top: 0;
+    }
+  }
+  @keyframes modal-bg-show {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }

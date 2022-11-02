@@ -1,0 +1,128 @@
+@font-face {
+    font-family: "gmarketSans";
+    src: url(../../font/GmarketSansOTF/GmarketSansMedium.otf);
+}
+
+@font-face {
+    font-family: "gmarketSansL";
+    src: url(../../font/GmarketSansOTF/GmarketSansLight.otf);
+}
+
+@font-face {
+    font-family: "Lexend";
+    src: url(../../font/Lexend_Deca/LexendDeca-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: "LexendB";
+    src: url(../../font/Lexend_Deca/static/LexendDeca-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'pretendard';
+    src: url(../../font/Pretendard/Pretendard-Regular.woff);
+}
+
+@font-face {
+    font-family: 'pretendardL';
+    src: url(../../font/Pretendard/Pretendard-ExtraLight.woff);
+}
+
+.admin_container {
+    padding: 1px;
+    height: 99.5vh;
+}
+
+.admin_container2 {
+    width: 35%;
+    float: right;
+    margin-right: 12vw;
+    position: relative;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+
+.admin_container3 {
+    margin-top: 2vw;
+    height: 32%;
+    padding-left: 19%;
+    font-size: 0.9vw;
+}
+
+.admin_container4 {
+    width: 73.5%;
+    padding-top: 2vw;
+}
+
+.logoL {
+    width: 36%;
+    position: relative;
+    top: 50%;
+    transform: translate(33.5%,-50%);
+    float: left;
+}
+
+.admin_welcome {
+    font-size: 2.8vw;
+    text-align: center;
+    margin-bottom: 0.6vw;
+}
+
+.login_input {
+    margin-top: 1.5vw;
+}
+
+.login_inputbox {
+    width: 72%;
+    height: 2.4vw;
+    margin-top: 0.4vw;
+    border: 2.5px solid black;
+}
+
+.login_check {
+    cursor: pointer;
+
+}
+
+label[for='remember']{
+    position: relative;
+    top: -0.1vw;
+    margin-left: 0.5vw;
+}
+
+.findPass{
+    width: 37%;
+    text-align: right;
+    float: right;
+    cursor: pointer;
+}
+
+.login {
+    width: 73.5%;
+    margin-top: 1.7vw;
+    cursor: pointer;
+}
+
+
+.findPassEng{
+    width: 43%;
+    text-align: right;
+    float: right;
+    cursor: pointer;
+}
+
+.admin_welcomeEng {
+    font-size: 3vw;
+    text-align: left;
+    margin-bottom: 0.2vw;
+    margin-left: 19%;
+    word-spacing: -5px;
+}
+
+.admin_welcomeEng2 {
+    font-size: 2.3vw;
+    text-align: left;
+    margin-bottom: 0.2vw;
+    margin-left: 19%;
+    word-spacing: -5px;
+}
