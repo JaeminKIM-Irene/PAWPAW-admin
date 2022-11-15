@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PAWPAW_admin/static/css/main.7bb75721.chunk.css",
+    "main.js": "/PAWPAW_admin/static/js/main.d06a9fb9.chunk.js",
+    "main.js.map": "/PAWPAW_admin/static/js/main.d06a9fb9.chunk.js.map",
+    "runtime-main.js": "/PAWPAW_admin/static/js/runtime-main.ba67af9e.js",
+    "runtime-main.js.map": "/PAWPAW_admin/static/js/runtime-main.ba67af9e.js.map",
+    "static/js/2.db3aff84.chunk.js": "/PAWPAW_admin/static/js/2.db3aff84.chunk.js",
+    "static/js/2.db3aff84.chunk.js.map": "/PAWPAW_admin/static/js/2.db3aff84.chunk.js.map",
+    "static/js/3.b887703a.chunk.js": "/PAWPAW_admin/static/js/3.b887703a.chunk.js",
+    "static/js/3.b887703a.chunk.js.map": "/PAWPAW_admin/static/js/3.b887703a.chunk.js.map",
+    "index.html": "/PAWPAW_admin/index.html",
+    "static/css/main.7bb75721.chunk.css.map": "/PAWPAW_admin/static/css/main.7bb75721.chunk.css.map",
+    "static/js/2.db3aff84.chunk.js.LICENSE.txt": "/PAWPAW_admin/static/js/2.db3aff84.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/PAWPAW_admin/static/media/Pretendard-Regular.ab56c53f.woff",
+    "static/media/imageUpload.9dec8897.png": "/PAWPAW_admin/static/media/imageUpload.9dec8897.png",
+    "static/media/imageUpload2.0e6454af.png": "/PAWPAW_admin/static/media/imageUpload2.0e6454af.png",
+    "static/media/logoL.55ef18b3.png": "/PAWPAW_admin/static/media/logoL.55ef18b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba67af9e.js",
+    "static/js/2.db3aff84.chunk.js",
+    "static/css/main.7bb75721.chunk.css",
+    "static/js/main.d06a9fb9.chunk.js"
+  ]
+}
