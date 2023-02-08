@@ -40,9 +40,9 @@ const Event = () => {
         company1: '',
         company2: '',
         detail: '',
-        poster1: 'images/imageUpload.png',
+        poster1: './images/imageUpload.png',
         poster1N: '첨부파일명',
-        poster2: 'images/imageUpload2.png',
+        poster2: './images/imageUpload2.png',
         poster2N: '첨부파일명',
     })
 
@@ -59,9 +59,9 @@ const Event = () => {
             company1: '한국펫사료협회',
             company2: '메쎄이상',
             detail: '[참관 안내]\n- 케이펫페어 입장권은 날짜가 지정되어 있지 않습니다. 전시기간 중 원하시는 날짜에 방문하시면 됩니다.\n- 입장바코드를 지참하시어, 전시장 \'사전등록대\'에 방문하시면 바코드를 \'입장팔찌\'로 교환해드립니다.\n- 입장바코드는 행사 당일 쭈쭈쭈App 내에서 확인할 수 있습니다. (가낳지모 캣페어는 가낳지모 APP 내에서 확인)\n\n\n[사전등록 예매 취소 시 유의사항]\n★취소 기한: 2022. 11. 17(목) 23시 59분\n1. 취소/환불 규정 미숙지로 인한 불이익은 등록자에게 있음.\n2. 기한 내에는 등록자 본인이 직접 로그인 후 취소/환불 처리할 수 있음.\n3. 고지된 기한 내에만 처리가 가능하며, 기한 이후는 취소/환불 일체 불가.\n4. 취소 수수료 및 환불 처리 안내\n5. 자세한 문의는 사무국으로 문의 주시기 바랍니다. (02-6121-6247)',
-            poster1: 'images/poster1.png',
+            poster1: './images/poster1.png',
             poster1N: 'poster1.png',
-            poster2: 'images/poster1L.png',
+            poster2: './images/poster1L.png',
             poster2N: 'poster1L.png',
         },
         {
@@ -76,9 +76,9 @@ const Event = () => {
             company1: '한국펫사료협회',
             company2: '메쎄이상',
             detail: '[참관 안내]\n- 케이펫페어 입장권은 날짜가 지정되어 있지 않습니다. 전시기간 중 원하시는 날짜에 방문하시면 됩니다.\n- 입장바코드를 지참하시어, 전시장 \'사전등록대\'에 방문하시면 바코드를 \'입장팔찌\'로 교환해드립니다.\n- 입장바코드는 행사 당일 쭈쭈쭈App 내에서 확인할 수 있습니다. (가낳지모 캣페어는 가낳지모 APP 내에서 확인)\n\n\n[사전등록 예매 취소 시 유의사항]\n★취소 기한: 2022. 11. 17(목) 23시 59분\n1. 취소/환불 규정 미숙지로 인한 불이익은 등록자에게 있음.\n2. 기한 내에는 등록자 본인이 직접 로그인 후 취소/환불 처리할 수 있음.\n3. 고지된 기한 내에만 처리가 가능하며, 기한 이후는 취소/환불 일체 불가.\n4. 취소 수수료 및 환불 처리 안내\n5. 자세한 문의는 사무국으로 문의 주시기 바랍니다. (02-6121-6247)',
-            poster1: 'images/poster2.png',
+            poster1: './images/poster2.png',
             poster1N: 'poster2.png',
-            poster2: 'images/poster2L.png',
+            poster2: './images/poster2L.png',
             poster2N: 'poster2L.png',
         },
         {
@@ -93,9 +93,9 @@ const Event = () => {
             company1: '한국펫사료협회',
             company2: '메쎄이상',
             detail: '[참관 안내]\n- 케이펫페어 입장권은 날짜가 지정되어 있지 않습니다. 전시기간 중 원하시는 날짜에 방문하시면 됩니다.\n- 입장바코드를 지참하시어, 전시장 \'사전등록대\'에 방문하시면 바코드를 \'입장팔찌\'로 교환해드립니다.\n- 입장바코드는 행사 당일 쭈쭈쭈App 내에서 확인할 수 있습니다. (가낳지모 캣페어는 가낳지모 APP 내에서 확인)\n\n\n[사전등록 예매 취소 시 유의사항]\n★취소 기한: 2022. 11. 17(목) 23시 59분\n1. 취소/환불 규정 미숙지로 인한 불이익은 등록자에게 있음.\n2. 기한 내에는 등록자 본인이 직접 로그인 후 취소/환불 처리할 수 있음.\n3. 고지된 기한 내에만 처리가 가능하며, 기한 이후는 취소/환불 일체 불가.\n4. 취소 수수료 및 환불 처리 안내\n5. 자세한 문의는 사무국으로 문의 주시기 바랍니다. (02-6121-6247)',
-            poster1: 'images/poster3.png',
+            poster1: './images/poster3.png',
             poster1N: 'poster3.png',
-            poster2: 'images/poster3L.png',
+            poster2: './images/poster3L.png',
             poster2N: 'poster3L.png',
         },
         {
@@ -110,9 +110,9 @@ const Event = () => {
             company1: '한국펫사료협회',
             company2: '메쎄이상',
             detail: '[참관 안내]\n- 케이펫페어 입장권은 날짜가 지정되어 있지 않습니다. 전시기간 중 원하시는 날짜에 방문하시면 됩니다.\n- 입장바코드를 지참하시어, 전시장 \'사전등록대\'에 방문하시면 바코드를 \'입장팔찌\'로 교환해드립니다.\n- 입장바코드는 행사 당일 쭈쭈쭈App 내에서 확인할 수 있습니다. (가낳지모 캣페어는 가낳지모 APP 내에서 확인)\n\n\n[사전등록 예매 취소 시 유의사항]\n★취소 기한: 2022. 11. 17(목) 23시 59분\n1. 취소/환불 규정 미숙지로 인한 불이익은 등록자에게 있음.\n2. 기한 내에는 등록자 본인이 직접 로그인 후 취소/환불 처리할 수 있음.\n3. 고지된 기한 내에만 처리가 가능하며, 기한 이후는 취소/환불 일체 불가.\n4. 취소 수수료 및 환불 처리 안내\n5. 자세한 문의는 사무국으로 문의 주시기 바랍니다. (02-6121-6247)',
-            poster1: 'images/poster4.png',
+            poster1: './images/poster4.png',
             poster1N: 'poster4.png',
-            poster2: 'images/imageUpload2.png',
+            poster2: './images/imageUpload2.png',
             poster2N: '첨부파일명',
         },
         {
@@ -127,9 +127,9 @@ const Event = () => {
             company1: '한국펫사료협회',
             company2: '메쎄이상',
             detail: '[참관 안내]\n- 케이펫페어 입장권은 날짜가 지정되어 있지 않습니다. 전시기간 중 원하시는 날짜에 방문하시면 됩니다.\n- 입장바코드를 지참하시어, 전시장 \'사전등록대\'에 방문하시면 바코드를 \'입장팔찌\'로 교환해드립니다.\n- 입장바코드는 행사 당일 쭈쭈쭈App 내에서 확인할 수 있습니다. (가낳지모 캣페어는 가낳지모 APP 내에서 확인)\n\n\n[사전등록 예매 취소 시 유의사항]\n★취소 기한: 2022. 11. 17(목) 23시 59분\n1. 취소/환불 규정 미숙지로 인한 불이익은 등록자에게 있음.\n2. 기한 내에는 등록자 본인이 직접 로그인 후 취소/환불 처리할 수 있음.\n3. 고지된 기한 내에만 처리가 가능하며, 기한 이후는 취소/환불 일체 불가.\n4. 취소 수수료 및 환불 처리 안내\n5. 자세한 문의는 사무국으로 문의 주시기 바랍니다. (02-6121-6247)',
-            poster1: 'images/poster5.png',
+            poster1: './images/poster5.png',
             poster1N: 'poster5.png',
-            poster2: 'images/poster5L.png',
+            poster2: './images/poster5L.png',
             poster2N: 'poster5L.png',
         },
         
@@ -265,7 +265,7 @@ const Event = () => {
                     <div style={{width:'98%', height:'50vw'}}>
                         {events.map((event) => (
                             <div className='eventList'>
-                                <img src={process.env.PUBLIC_URL +event.poster1} alt="" className='eventPoster' />
+                                <img src={event.poster1} alt="" className='eventPoster' />
                                 <div className='eventListD'>
                                     <div className='eventName'>{event.name}</div>
                                     <img src={Trash} alt="" className='eventTrash' onClick={()=>openModal(event)}/>
@@ -359,12 +359,12 @@ const Event = () => {
                         <div className='eventContent4'>
                             <input type='file' id='poster' accept='image/*' onChange={imageHandler} name='poster1'/>
                             <label htmlFor='poster'>
-                                {uploaded? <img src={poster} alt="" className='eventImage'/>:<img src={process.env.PUBLIC_URL +temevent.poster1} alt="" className='eventImage'/>}
+                                {uploaded? <img src={poster} alt="" className='eventImage'/>:<img src={temevent.poster1} alt="" className='eventImage'/>}
                             </label>
                             <div className='eventUpT2'>{temevent.poster1N}</div>
                             <input type='file' id='poster2' accept='image/*' onChange={imageHandler2} name='poster2'/>
                             <label htmlFor='poster2'>
-                                {uploaded? <img src={poster2} alt="" className='eventImage'/>:<img src={process.env.PUBLIC_URL +temevent.poster2} alt="" className='eventImage'/>}
+                                {uploaded? <img src={poster2} alt="" className='eventImage'/>:<img src={temevent.poster2} alt="" className='eventImage'/>}
                             </label>
                             <div className='eventUpT2'>{temevent.poster2N}</div>
                         </div>    
