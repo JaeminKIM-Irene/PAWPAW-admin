@@ -26,7 +26,6 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://irenejmkim.github.io/PAWPAW_admin/",
   "eslintConfig": {
     "extends": [
       "react-app",

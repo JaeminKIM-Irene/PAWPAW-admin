@@ -264,7 +264,7 @@ const Event = () => {
                     </div>
                     <div style={{width:'98%', height:'50vw'}}>
                         {events.map((event) => (
-                            <div className='eventList'>
+                            <div className='eventList' key={event.id}>
                                 <img src={event.poster1} alt="" className='eventPoster' />
                                 <div className='eventListD'>
                                     <div className='eventName'>{event.name}</div>

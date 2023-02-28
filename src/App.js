@@ -8,7 +8,7 @@ import Account from './pages/pc/Account';
 function App() {
   return (
     <div>
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <Routes>
           <Route path='/' element={<Main/>} />
           <Route path='/notice' element={<Notice/>} />
