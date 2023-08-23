@@ -10,7 +10,7 @@
 
  ## :calendar: 프로젝트 기간 :calendar:
 ### 2022.10-2022.10 </br></br></br>
-## :memo: Teck Stack :memo: 
+## :memo: Tech Stack :memo: 
 ### [Framework & Languages]
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/>
